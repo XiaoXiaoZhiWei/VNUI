@@ -4,4 +4,8 @@ struct VNUI {
     func play() {
         print(text)
     }
+    
+    func sleep() {
+        print("sleep")
+    }
 }
